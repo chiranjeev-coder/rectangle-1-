@@ -1,0 +1,8 @@
+agent.setAssist(PLACE_ON_MOVE, true)
+agent.move(FORWARD, 9)
+agent.turn(LEFT_TURN)
+agent.move(FORWARD, 7)
+agent.turn(LEFT_TURN)
+agent.move(FORWARD, 9)
+agent.turn(LEFT_TURN)
+agent.move(FORWARD, 7)
